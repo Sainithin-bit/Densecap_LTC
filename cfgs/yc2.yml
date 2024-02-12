@@ -1,7 +1,7 @@
 # dataset specific settings for yc2
 dataset: "yc2"
 dataset_file: "./data/yc2/yc2_annotations_trainval.json"
-feature_root: "H:/Thesis/densecap/data/feautrefiles/testing"
+feature_root: "/data/feautrefiles/testing"
 densecap_references: ["./data/yc2/val_yc2.js  on"]
 dur_file: "./data/yc2/yc2_duration_frame.csv"
 kernel_list: [ 111, 161, 281, 341, 509, 710, 823, 1001, 1301, 1503]
